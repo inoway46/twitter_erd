@@ -11,7 +11,7 @@
 - リスト一覧を表示する
 
 # ER図
-<img width="865" alt="twitter_erd_v1" src="https://user-images.githubusercontent.com/65857152/202978254-8aba20c5-f1b5-4156-9495-fbb1c55f45c7.png">
+<img width="916" alt="twitter_erd_v2" src="https://user-images.githubusercontent.com/65857152/202984148-d762cbb2-ec2c-432e-aa95-0f20624ee094.png">
 
 # 補足説明
 
